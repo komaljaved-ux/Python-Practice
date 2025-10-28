@@ -57,3 +57,4 @@ for key, value in student.items():  # .items() gives both key and value
     print(key, ":", value)
 
 print("\n--- End of Day 5 Practice ---")
+
